@@ -1,0 +1,13 @@
+user_id,firstname,lastname,version,insurance_company
+1,Carolyn,Walker,1,company_a
+2,Ava,Powell,1,company_b
+3,Edward,MacDonald,1,company_c
+4,Connor,Buckland,1,company_d
+5,Victor,Knox,1,company_e
+6,Christian,Murray,1,company_a
+7,Benjamin,Ogden,1,company_b
+8,Heather,Howard,1,company_c
+9,Rachel,Hill,1,company_d
+10,Stewart,Kelly,1,company_e
+1,Carolyn,Walker,2,company_a
+5,Victor,Knox,2,company_e
