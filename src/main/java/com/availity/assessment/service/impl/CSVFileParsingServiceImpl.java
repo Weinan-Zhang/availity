@@ -116,7 +116,7 @@ public class CSVFileParsingServiceImpl implements FileParsingService {
             ) {
                 entry.getValue().forEach(userDto -> {
                     try {
-                        printer.printRecord(userDto.getUserId(), userDto.getFirstName(), userDto.getLastName(), userDto.getInsuranceCompany(), userDto.getVersion());
+                        printer.printRecord(userDto.getUserId(), userDto.getFirstName(), userDto.getLastName(), userDto.getVersion(), userDto.getInsuranceCompany());
                     } catch (IOException e) {
                         e.printStackTrace();
                     }

@@ -12,5 +12,5 @@
     * The GET request on endpoint 'http://localhost:8080/check_parentheses' will check three pre-defined LISP expressions and return the expression and the check result for it as response
 
 ## The core implementation for required work
-* the core logic for CSV file parsing can be found in CSVFileParsingServiceImpl, the all relative and helper components can be tracked there
+* the core logic for CSV file parsing can be found in CSVFileParsingServiceImpl, all relative components can be tracked from there
 * the core logic for LISP parentheses check is implemented in com.availity.assessment.util.Utils.checkParentheses(String str)

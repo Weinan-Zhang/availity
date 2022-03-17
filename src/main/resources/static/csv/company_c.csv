@@ -1,3 +1,3 @@
 user_id,firstname,lastname,version,insurance_company
-8,Heather,Howard,company_c,1
-3,Edward,MacDonald,company_c,1
+8,Heather,Howard,1,company_c
+3,Edward,MacDonald,1,company_c
